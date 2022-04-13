@@ -20,7 +20,7 @@ Allows board administrators to set post count requirements to view or post on a 
 
 We use automated unit tests to prevent regressions. Check out our build below:
 
-master: [![Build Status](https://github.com/KaileySnay/pcr/workflows/Tests/badge.svg)](https://github.com/KaileySnay/pcr/actions)
+master: [![Build Status](https://github.com/kaileysnay/pcr/workflows/Tests/badge.svg)](https://github.com/kaileysnay/pcr/actions)
 
 ## License
 
